@@ -1,6 +1,6 @@
 === Auth using Google Authenticator by XLT ===
 Contributors: XLT
-Donate link: http://xlt.pl
+Donate link: http://xlt.pl/googleauth.html
 Tags: google auth, authorization, authenticator
 Requires at least: 3.6
 Tested up to: 3.8
