@@ -1,4 +1,4 @@
-=== Auth using Google Authenticator by XLT ===
+=== Google Authenticator by XLT ===
 Contributors: XLT
 Donate link: http://xlt.pl/googleauth.html
 Tags: google auth, authorization, authenticator
