@@ -1,7 +1,7 @@
 === Google Authenticator by XLT ===
 Contributors: XLT
 Donate link: http://xlt.pl/googleauth.html
-Tags: google auth, authorization, authenticator
+Tags: android, authentication, blackberry, iphone, login, otp, password, 2 factor authentication, 2FA, App, Authenticator, google, google authenticator, security
 Requires at least: 3.6
 Tested up to: 3.8
 Stable tag: trunk
