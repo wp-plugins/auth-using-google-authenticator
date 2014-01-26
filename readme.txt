@@ -15,7 +15,7 @@ WordPress Auth using Google Authenticator is a simple plugin which allows author
 
 = Plugin's Official Site =
 
-WordPress Auth using Google Authenticator by XLT ([http://xlt.pl](http://xlt.pl/))
+WordPress Auth using Google Authenticator by XLT ([http://xlt.pl/googleauth.html](http://xlt.pl/googleauth.html))
 
 
 == Installation ==
