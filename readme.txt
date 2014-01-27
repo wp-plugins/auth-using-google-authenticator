@@ -36,8 +36,8 @@ WordPress Auth using Google Authenticator by XLT ([http://xlt.pl/googleauth.html
 
 == Frequently Asked Questions ==
 
-Q: What should I do if I lost my phone or reinstall Google Authenticator?<br/>
-A: Probably the best way is to delete plugin folder using FTP or any file manager. After that plugin will not work.
+= What should I do if I lost my phone or reinstall Google Authenticator? =
+Probably the best way is to delete plugin folder using FTP or any file manager. After that plugin will not work.
 
 == Screenshots ==
 
